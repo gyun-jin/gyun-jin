@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGVwdndtbTlib2w4bXJveWZiaGRjcGhqcmV3MnFndjR2bnNtcnF5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" />
-</div>
+
 
 ###
 
@@ -22,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-- > 실생활 속 문제를 찾아 서비스로 풀어내는 것을 좋아하는 웹·앱 개발자입니다 👩‍💻 <br> 웹과 앱을 넘나들며 사용자가 만족할 만한 서비스를 제공합니다.
+- >  👩‍💻 <br> 
 - 컴퓨터공학부 소프트웨어공학전공
 - Interest: Programming, Baseball, Investing, Photography
 
@@ -34,7 +32,7 @@
 
 ## 🎨 Activity
 
-- 한국공학대학교 「Integrated Media System」 학부연구생 (2023.06~2023.12, 2025.06~2026.07)
+- 한국공학대학교 「Integrated Media System」 학부연구생 (2023.06-2023.12, 2025.06-2026.07)
 - 2025년 경기도재활공학서비스연구지원센터 「2025 보조기기 아이디어 공모전」 최우수상 수상
 - GDGoC TUKorea 2026 Organizer
 - 'Mediapipe를 이용한 사시⋅사위 판별 및 Vision Therapy 시스템 연구' 논문 제 1저자
