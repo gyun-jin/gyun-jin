@@ -26,14 +26,14 @@
 
 ## ✍️Studying recently
 
-- Html / Css / JavaScript, React
 - MySQL
 - Python ML
 
 ## 🎨 Activity
 
 - 한국공학대학교 「Integrated Media System」 학부연구생 (2023.06-2023.12, 2025.06-2026.07)
-- 2025년 경기도재활공학서비스연구지원센터 「2025 보조기기 아이디어 공모전」 최우수상 수상
+- 학부연구생 : '노동자의 출석 및 심리검사 테스트용 서비스와 관리자 서비스' Frontend
+- 학부연구생 : 2025년 경기도재활공학서비스연구지원센터 「2025 보조기기 아이디어 공모전」 최우수상 수상
 - GDGoC TUKorea 2026 Organizer
 - 'Mediapipe를 이용한 사시⋅사위 판별 및 Vision Therapy 시스템 연구' 논문 제 1저자
 - 2026년 한국게임학회 춘계학술발표대회 논문 발표
@@ -80,7 +80,11 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" />
   <img width="8" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="30" /> 
+  <img width="8" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="30" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="30" />
 </div>
 
 ###
@@ -104,6 +108,8 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30" />
   <img width="8" />
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" height="30" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" height="30" />
   <img width="8" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
 </div>
