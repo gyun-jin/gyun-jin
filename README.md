@@ -22,7 +22,7 @@
 
 - >  👩‍💻 <br> 
 - 컴퓨터공학부 소프트웨어공학전공
-- Interest: Programming, Baseball, Investing, Photography
+- Interest: Programming, Book, Baseball, Investing, Personal Finance
 
 ## ✍️Studying recently
 
@@ -80,6 +80,7 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" />
   <img width="8" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" height="30" />
 </div>
 
 ###
